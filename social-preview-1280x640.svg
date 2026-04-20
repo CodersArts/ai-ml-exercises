@@ -1,0 +1,63 @@
+<svg width="1280" height="640" viewBox="0 0 1280 640" xmlns="http://www.w3.org/2000/svg">
+  <title>Codersarts AI &amp; ML Exercises — Growing library of hands-on exercises across 24 skill pillars, free on GitHub</title>
+  <rect width="1280" height="640" fill="#0B1120"/>
+  <rect x="0" y="0" width="6" height="640" fill="#7C3AED"/>
+  <circle cx="1240" cy="60"  r="160" fill="#0F1F3D" opacity="0.6"/>
+  <circle cx="1220" cy="590" r="120" fill="#0F1F3D" opacity="0.4"/>
+  <circle cx="220"  cy="610" r="100" fill="#0F1F3D" opacity="0.3"/>
+  <line x1="782" y1="40"  x2="782" y2="600" stroke="#1E2D4A" stroke-width="1"/>
+  <line x1="0"   y1="600" x2="1280" y2="600" stroke="#1E2D4A" stroke-width="1"/>
+  <rect x="42" y="50" width="240" height="42" rx="10" fill="#1D3461"/>
+  <text x="162" y="79" font-family="system-ui,-apple-system,sans-serif" font-size="22" font-weight="500" fill="#93C5FD" text-anchor="middle">codersarts.dev</text>
+  <text x="42" y="220" font-family="system-ui,-apple-system,sans-serif" font-size="140" font-weight="700" fill="#FFFFFF">300+</text>
+  <text x="46" y="268" font-family="system-ui,-apple-system,sans-serif" font-size="36" font-weight="600" fill="#E2E8F0">AI &amp; ML Exercises</text>
+  <text x="46" y="314" font-family="system-ui,-apple-system,sans-serif" font-size="20" fill="#64748B">From data cleaning to production RAG pipelines,</text>
+  <text x="46" y="340" font-family="system-ui,-apple-system,sans-serif" font-size="20" fill="#64748B">LLM fine-tuning, agentic AI and MLOps.</text>
+  <rect x="46"  y="378" width="148" height="44" rx="10" fill="#1E293B"/>
+  <text x="120" y="405" font-family="system-ui,-apple-system,sans-serif" font-size="20" fill="#CBD5E1" text-anchor="middle">24 pillars</text>
+  <rect x="204" y="378" width="176" height="44" rx="10" fill="#1E293B"/>
+  <text x="292" y="405" font-family="system-ui,-apple-system,sans-serif" font-size="20" fill="#CBD5E1" text-anchor="middle">Growing weekly</text>
+  <rect x="390" y="378" width="152" height="44" rx="10" fill="#14532D"/>
+  <text x="466" y="405" font-family="system-ui,-apple-system,sans-serif" font-size="20" fill="#86EFAC" text-anchor="middle">Open source</text>
+  <rect x="46"  y="432" width="164" height="44" rx="10" fill="#312E81"/>
+  <text x="128" y="459" font-family="system-ui,-apple-system,sans-serif" font-size="20" fill="#C4B5FD" text-anchor="middle">Starter code</text>
+  <rect x="220" y="432" width="164" height="44" rx="10" fill="#1C3D2A"/>
+  <text x="302" y="459" font-family="system-ui,-apple-system,sans-serif" font-size="20" fill="#86EFAC" text-anchor="middle">Full solutions</text>
+  <rect x="394" y="432" width="164" height="44" rx="10" fill="#431407"/>
+  <text x="476" y="459" font-family="system-ui,-apple-system,sans-serif" font-size="20" fill="#FCA5A5" text-anchor="middle">Expert CTAs</text>
+  <text x="46"  y="556" font-family="system-ui,-apple-system,sans-serif" font-size="20" fill="#334155">github.com/codersarts/ai-ml-exercises</text>
+  <rect x="46"  y="568" width="260" height="34" rx="8" fill="#1D3461" opacity="0.8"/>
+  <text x="176" y="591" font-family="system-ui,-apple-system,sans-serif" font-size="16" fill="#93C5FD" text-anchor="middle">New exercises added every week</text>
+  <text x="814" y="76" font-family="system-ui,-apple-system,sans-serif" font-size="20" font-weight="500" fill="#475569">skill pillars</text>
+  <rect x="814"  y="92"  width="208" height="46" rx="10" fill="#065F46"/>
+  <text x="918"  y="123" font-family="system-ui,-apple-system,sans-serif" font-size="20" fill="#6EE7B7" text-anchor="middle">Data Cleaning</text>
+  <rect x="1034" y="92"  width="208" height="46" rx="10" fill="#1E3A8A"/>
+  <text x="1138" y="123" font-family="system-ui,-apple-system,sans-serif" font-size="20" fill="#93C5FD" text-anchor="middle">Classification</text>
+  <rect x="814"  y="148" width="208" height="46" rx="10" fill="#6B21A8"/>
+  <text x="918"  y="179" font-family="system-ui,-apple-system,sans-serif" font-size="20" fill="#DDD6FE" text-anchor="middle">Feature Eng.</text>
+  <rect x="1034" y="148" width="208" height="46" rx="10" fill="#7C2D12"/>
+  <text x="1138" y="179" font-family="system-ui,-apple-system,sans-serif" font-size="20" fill="#FCA5A5" text-anchor="middle">NLP</text>
+  <rect x="814"  y="204" width="208" height="46" rx="10" fill="#9D174D"/>
+  <text x="918"  y="235" font-family="system-ui,-apple-system,sans-serif" font-size="20" fill="#FBCFE8" text-anchor="middle">Deep Learning</text>
+  <rect x="1034" y="204" width="208" height="46" rx="10" fill="#14532D"/>
+  <text x="1138" y="235" font-family="system-ui,-apple-system,sans-serif" font-size="20" fill="#86EFAC" text-anchor="middle">Computer Vision</text>
+  <line x1="814" y1="268" x2="1242" y2="268" stroke="#1E293B" stroke-width="1"/>
+  <text x="1028" y="290" font-family="system-ui,-apple-system,sans-serif" font-size="16" fill="#334155" text-anchor="middle">2026 production skills</text>
+  <rect x="814"  y="302" width="208" height="46" rx="10" fill="#3730A3"/>
+  <text x="918"  y="333" font-family="system-ui,-apple-system,sans-serif" font-size="20" fill="#C4B5FD" text-anchor="middle">Advanced RAG</text>
+  <rect x="1034" y="302" width="208" height="46" rx="10" fill="#0C4A6E"/>
+  <text x="1138" y="333" font-family="system-ui,-apple-system,sans-serif" font-size="20" fill="#7DD3FC" text-anchor="middle">Agentic AI</text>
+  <rect x="814"  y="358" width="208" height="46" rx="10" fill="#78350F"/>
+  <text x="918"  y="389" font-family="system-ui,-apple-system,sans-serif" font-size="20" fill="#FCD34D" text-anchor="middle">LLM Fine-Tuning</text>
+  <rect x="1034" y="358" width="208" height="46" rx="10" fill="#7F1D1D"/>
+  <text x="1138" y="389" font-family="system-ui,-apple-system,sans-serif" font-size="20" fill="#FCA5A5" text-anchor="middle">Monitoring</text>
+  <rect x="814"  y="414" width="208" height="46" rx="10" fill="#134E4A"/>
+  <text x="918"  y="445" font-family="system-ui,-apple-system,sans-serif" font-size="20" fill="#99F6E4" text-anchor="middle">Full-Stack AI</text>
+  <rect x="1034" y="414" width="208" height="46" rx="10" fill="#1E3A5F"/>
+  <text x="1138" y="445" font-family="system-ui,-apple-system,sans-serif" font-size="20" fill="#93C5FD" text-anchor="middle">Multimodal AI</text>
+  <rect x="814"  y="470" width="208" height="46" rx="10" fill="#1D4ED8"/>
+  <text x="918"  y="501" font-family="system-ui,-apple-system,sans-serif" font-size="20" fill="#BFDBFE" text-anchor="middle">Deployment</text>
+  <rect x="1034" y="470" width="208" height="46" rx="10" fill="#1C3D2A"/>
+  <text x="1138" y="501" font-family="system-ui,-apple-system,sans-serif" font-size="20" fill="#86EFAC" text-anchor="middle">+ more weekly</text>
+  <text x="1028" y="560" font-family="system-ui,-apple-system,sans-serif" font-size="17" fill="#334155" text-anchor="middle">Star the repo — new exercises drop every week</text>
+</svg>
