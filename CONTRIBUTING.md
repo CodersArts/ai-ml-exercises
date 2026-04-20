@@ -310,7 +310,7 @@ In short:
 - Focus feedback on the code and explanation, not the person
 - No self-promotion or off-topic links in issues or PRs
 
-Violations can be reported to `hello@codersarts.dev`. We take this seriously.
+Violations can be reported to `contact@codersarts.com`. We take this seriously.
 
 ---
 
@@ -323,8 +323,8 @@ Contributors are listed in [CONTRIBUTORS.md](CONTRIBUTORS.md) and mentioned in o
 ## Questions?
 
 - Open a [GitHub Discussion](https://github.com/codersarts/ai-ml-exercises/discussions) for general questions
-- Join our [Discord](https://discord.gg/codersarts) for real-time chat
-- Email `hello@codersarts.dev` for anything else
+- Join our [Discord](https://discord.gg/CM2YQpbRAN) for real-time chat
+- Email `contact@codersarts.com` for anything else
 
 Thank you for making this better. Every solution helps someone get unstuck.
 
